@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Q-Day"
 title_separator          : "-"
-name                     : "Dominykas Grigonis"
+name                     : ""
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,12 +61,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dominykas Grigonis"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "UK"
+  email            : "d.grigonis@me.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
